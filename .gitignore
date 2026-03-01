@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (generated at runtime)
+Data/ChatLog.json
+Data/speech.mp3
+Data/Images/
+Data/voice.html
+
+# Logs
+error.log
+*.log
+
+# Temp files
+SpeechRecognitionResult.txt
+Frontend/Files/Status.data
+Frontend/Files/Mic.data
+Frontend/Files/Chatnb.data
+Frontend/Files/Query.data
+Frontend/Files/Body.data
+Frontend/Files/Responses.data
